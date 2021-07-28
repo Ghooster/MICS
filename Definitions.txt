@@ -1,0 +1,13 @@
+Pareto optimal (adj.): the property of an outcome that you can’t make anyone
+better off without making someone else worse off.
+
+strategyproof (synonym: truthful) (adj.): the property of a mechanism that
+honesty is always the best policy, meaning that lying about your preferences
+cannot make you better off.
+
+mechanism (n.): a procedure for making a decision or taking an action, as a
+function of what people want (i.e., of participants’ preferences).
+
+serial dictatorship (n.): a mechanism that orders the participants, and in this
+order allows each player to dictate their favorite feasible option (given the
+choices made by previous players).
